@@ -212,6 +212,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Matthew Loseke";
 				TargetAttributes = {
+					C97FF5CE18BBF0EE0077C3A2 = {
+						DevelopmentTeam = 729MKH4M8C;
+					};
 					C97FF5EF18BBF0EE0077C3A2 = {
 						TestTargetID = C97FF5CE18BBF0EE0077C3A2;
 					};
@@ -392,6 +395,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 729MKH4M8C;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iOS-Play-And-Record-Demo/iOS-Play-And-Record-Demo-Prefix.pch";
 				INFOPLIST_FILE = "iOS-Play-And-Record-Demo/iOS-Play-And-Record-Demo-Info.plist";
@@ -405,6 +409,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 729MKH4M8C;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iOS-Play-And-Record-Demo/iOS-Play-And-Record-Demo-Prefix.pch";
 				INFOPLIST_FILE = "iOS-Play-And-Record-Demo/iOS-Play-And-Record-Demo-Info.plist";
